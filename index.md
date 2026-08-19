@@ -1,5 +1,5 @@
 ---
-title: Welcome to Caishawn's Playground!
+title: Welcome to CaiShawn's Playground!
 ---
 
  <!-- A fragment of Github Pages -->
